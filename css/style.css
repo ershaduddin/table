@@ -1,0 +1,18 @@
+#customers {
+  font-family: Arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%; 
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+td:hover{
+  background-color:#add;
+}
+  
+  h1 {
+  text-align:center;
+
